@@ -37,6 +37,8 @@ import right_arrow_bold from "./right-arrow-bold.png";
 import right_arrow_bold_dark from "./right-arrow-bold-dark.png";
 import dbeaver from "./DBeaver.png";
 import mysql from "./ mysql.png";
+import data_engineer from "./data_engineer.png";
+import web_app_developer from "./web_app_developer.png";
 
 export const assets = {
   user_image,
@@ -105,29 +107,16 @@ export const workData = [
 
 export const serviceData = [
   {
-    icon: assets.web_icon,
-    title: "Web design",
+    icon: assets.web_app_developer,
+    title: "Web app Developer",
     description: "Web development is the process of building, programming...",
     link: "",
   },
   {
-    icon: assets.mobile_icon,
-    title: "Mobile app",
+    icon: assets.data_engineer,
+    title: "Data Engineer",
     description:
-      "Mobile app development involves creating software for mobile devices...",
-    link: "",
-  },
-  {
-    icon: assets.ui_icon,
-    title: "UI/UX design",
-    description:
-      "UI/UX design focuses on creating a seamless user experience...",
-    link: "",
-  },
-  {
-    icon: assets.graphics_icon,
-    title: "Graphics design",
-    description: "Creative design solutions to enhance visual communication...",
+      "Optimizing data processing systems, enabling businesses to efficiently and accurately extract valuable insights...",
     link: "",
   },
 ];

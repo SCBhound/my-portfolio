@@ -4,8 +4,8 @@ import Image from "next/image";
 
 const About = () => {
   return (
-    <div id="about" className="w-full px-[12%] py-10 scroll-mt-20'">
-      <h4 className="text-center font-Ovo text-xl md:text-2xl lg:text-3xl">
+    <div id="about" className="w-full px-[12%] py-10 scroll-mt-20">
+      <h4 className="text-center font-Ovo text-lg mb-2 ">
         Introduction
       </h4>
       <h2 className="text-center text-5xl font-Ovo">
