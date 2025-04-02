@@ -80,6 +80,8 @@ export const assets = {
   right_arrow_bold_dark,
   dbeaver,
   mysql,
+  data_engineer,
+  web_app_developer,
 };
 
 export const workData = [
