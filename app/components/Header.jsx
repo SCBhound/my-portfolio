@@ -23,7 +23,7 @@ const Header = () => {
           href="#contact"
           className="px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2 "
         >
-          contact me <Image scr={assets.right_arrow} alt="" className=" w-4" />
+          contact me <Image src={assets.right_arrow} alt="" className=" w-4" />
         </a>
         <a
           href="/sample-resume.pdf"
