@@ -129,18 +129,21 @@ export const infoList = [
     iconDark: assets.code_icon_dark,
     title: "Languages",
     description: "HTML, CSS, JavaScript, React Js, Next Js",
+    link: "",
   },
   {
     icon: assets.edu_icon,
     iconDark: assets.edu_icon_dark,
     title: "Education",
     description: "Post and Telecommunication Institue of Technology",
+    link: "",
   },
   {
     icon: assets.project_icon,
     iconDark: assets.project_icon_dark,
     title: "Projects",
     description: "Participate in building GazeCode",
+    link: "https://gazecode.io/",
   },
 ];
 
